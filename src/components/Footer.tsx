@@ -41,7 +41,7 @@ export default function Footer() {
           <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="LinkedIn">
             💼
           </a>
-          <a href="mailto:punithk@example.com" className="social-link" aria-label="Email">
+          <a href="mailto:bpunith333@gmail.com" className="social-link" aria-label="Email">
             📧
           </a>
         </div>

@@ -73,19 +73,19 @@ export default function Contact() {
                 </div>
               </a>
 
-              <a href="mailto:punithk@example.com" className="contact-item">
+              <a href="mailto:bpunith333@gmail.com" className="contact-item">
                 <div className="contact-item-icon">📧</div>
                 <div>
                   <div className="contact-item-text">Email</div>
-                  <div className="contact-item-label">punithk@example.com</div>
+                  <div className="contact-item-label">bpunith333@gmail.com</div>
                 </div>
               </a>
 
-              <a href="tel:+1234567890" className="contact-item">
+              <a href="tel:+917418045791" className="contact-item">
                 <div className="contact-item-icon">📱</div>
                 <div>
                   <div className="contact-item-text">Phone</div>
-                  <div className="contact-item-label">+1 234 567 890</div>
+                  <div className="contact-item-label">+91 7418045791</div>
                 </div>
               </a>
 
