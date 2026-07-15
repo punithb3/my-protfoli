@@ -60,7 +60,7 @@ export default function Hero() {
       <div className="hero-shape" />
 
       <div className="hero-content">
-        <p className="hero-greeting">👋 HELLO WORLD, I'M</p>
+        <p className="hero-greeting"></p>
         <h1 className="hero-name">
           <span className="gradient-text">Punith K</span>
         </h1>
