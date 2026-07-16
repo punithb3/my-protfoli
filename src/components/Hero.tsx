@@ -62,7 +62,7 @@ export default function Hero() {
       <div className="hero-content">
         <p className="hero-greeting"></p>
         <h1 className="hero-name">
-          <span className="gradient-text">Punith K</span>
+          <span className="gradient-text">Punith B</span>
         </h1>
         <p className="hero-title">A passionate developer crafting digital experiences</p>
         <div className="hero-typing">
@@ -78,18 +78,20 @@ export default function Hero() {
             ⚡ View My Work
           </a>
           <a
-            href="#contact"
+            href="https://cdn.phototourl.com/pdf/member/2026-07-16-4cb58fda-96c9-414c-bc48-16d35cdd37b2.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
             className="hero-cta secondary magnetic-btn"
             onClick={createRipple}
           >
-            💬 Contact Me
+            📥 Download Resume
           </a>
           <a
-            href="#about"
+            href="#contact"
             className="hero-cta ghost magnetic-btn"
             onClick={createRipple}
           >
-            📄 About Me
+            💬 Contact Me
           </a>
         </div>
       </div>
