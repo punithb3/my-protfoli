@@ -10,7 +10,6 @@ export default function Loader() {
 
   return (
     <div className={`loader-overlay ${visible ? '' : 'hidden'}`}>
-      <div className="loader-text">PK</div>
       <div className="loader-bar">
         <div className="loader-bar-fill" />
       </div>
