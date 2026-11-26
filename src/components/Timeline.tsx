@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 
 const timelineItems = [
-  { year: 'EXPERIENCE', title: 'Customer Support Executive', desc: 'Managed client interactions, resolved queries efficiently, and maintained proper documentation at HRH Next Company.' },
+  { year: 'EXPERIENCE', title: 'Internship Experience', desc: 'Communicated with customers across phone, email, and online channels, explained products and services, and supported business development activities.' },
   { year: 'PHASE 1', title: 'Started Learning HTML', desc: 'Built the foundation of web development by learning HTML5 semantics, structure, and best practices.' },
   { year: 'PHASE 2', title: 'Learned CSS', desc: 'Mastered styling, layouts, flexbox, grid, animations, and responsive design principles.' },
   { year: 'PHASE 3', title: 'Mastered JavaScript Basics', desc: 'Learned DOM manipulation, event handling, ES6+ features, and interactive web programming.' },

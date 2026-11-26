@@ -78,7 +78,8 @@ export default function Hero() {
             ⚡ View My Work
           </a>
           <a
-            href="https://cdn.phototourl.com/pdf/member/2026-07-16-4cb58fda-96c9-414c-bc48-16d35cdd37b2.pdf"
+            href="./resume.pdf"
+            download="Punith_B_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="hero-cta secondary magnetic-btn"

@@ -58,15 +58,14 @@ export default function About() {
               </div>
 
               <div className="resume-details" style={{ marginTop: '2.5rem' }}>
-                <h4 style={{ color: 'var(--neon-cyan)', marginBottom: '1rem', fontSize: '1.2rem' }}>Experience</h4>
+                <h4 style={{ color: 'var(--neon-cyan)', marginBottom: '1rem', fontSize: '1.2rem' }}>Internship Experience</h4>
                 <div className="resume-item" style={{ marginBottom: '1.5rem' }}>
-                  <strong style={{ display: 'block', fontSize: '1.1rem', color: 'var(--text-primary)' }}>Customer Support Executive</strong>
-                  <span style={{ color: 'var(--text-secondary)', fontSize: '0.9rem' }}>HRH Next Company</span>
+                  <strong style={{ display: 'block', fontSize: '1.1rem', color: 'var(--text-primary)' }}>Customer Support &amp; Business Development Intern</strong>
                   <ul style={{ paddingLeft: '1.2rem', color: 'var(--text-muted)', fontSize: '0.9rem', marginTop: '0.5rem', lineHeight: '1.6' }}>
-                    <li style={{ marginBottom: '0.3rem' }}>Handled customer interactions through voice calls and chat channels, ensuring clear communication.</li>
-                    <li style={{ marginBottom: '0.3rem' }}>Responded to queries, concerns, and service requests by providing appropriate resolutions.</li>
-                    <li style={{ marginBottom: '0.3rem' }}>Managed tickets by logging, categorizing, prioritizing, and tracking them until closure.</li>
-                    <li>Maintained proper documentation and ticket status updates.</li>
+                    <li style={{ marginBottom: '0.3rem' }}>Communicated with customers through phone calls, emails, and online channels to understand their requirements.</li>
+                    <li style={{ marginBottom: '0.3rem' }}>Explained products and services and provided suitable solutions based on customer needs.</li>
+                    <li style={{ marginBottom: '0.3rem' }}>Developed professional communication and customer-handling skills.</li>
+                    <li>Collaborated with team members to support business development activities.</li>
                   </ul>
                 </div>
 
@@ -79,16 +78,17 @@ export default function About() {
                 <h4 style={{ color: 'var(--neon-cyan)', marginBottom: '1rem', fontSize: '1.2rem' }}>Skills</h4>
                 <div className="resume-item" style={{ marginBottom: '1.5rem' }}>
                   <ul style={{ paddingLeft: '1.2rem', color: 'var(--text-muted)', fontSize: '0.9rem', lineHeight: '1.6' }}>
-                    <li style={{ marginBottom: '0.3rem' }}><strong style={{ color: 'var(--text-primary)' }}>Web & Tools:</strong> HTML, CSS, JavaScript (Basics), GitHub, VS Code</li>
-                    <li style={{ marginBottom: '0.3rem' }}><strong style={{ color: 'var(--text-primary)' }}>Media Tools:</strong> DaVinci Resolve, Adobe Premiere Pro, After Effects</li>
-                    <li><strong style={{ color: 'var(--text-primary)' }}>Soft Skills:</strong> Customer Interaction, Issue Resolution, Time Management, Documentation</li>
+                    <li style={{ marginBottom: '0.3rem' }}><strong style={{ color: 'var(--text-primary)' }}>Web &amp; Tools:</strong> HTML, CSS, JavaScript, GitHub, VS Code, Figma (Basic), Git Version Control</li>
+                    <li style={{ marginBottom: '0.3rem' }}><strong style={{ color: 'var(--text-primary)' }}>Productivity:</strong> Google Workspace, Documentation &amp; Reporting</li>
+                    <li style={{ marginBottom: '0.3rem' }}><strong style={{ color: 'var(--text-primary)' }}>Media Tools:</strong> DaVinci Resolve, Adobe Premiere Pro, After Effects, Avid Media</li>
+                    <li><strong style={{ color: 'var(--text-primary)' }}>Soft Skills:</strong> Customer Interaction &amp; Relationship Management, Issue Resolution &amp; Time Management, Problem Solving, Quick Learning, Team Collaboration, Adaptability, Critical Thinking</li>
                   </ul>
                 </div>
               </div>
 
               <div style={{ marginTop: '2rem' }}>
                 <a
-                  href="https://cdn.phototourl.com/pdf/member/2026-07-16-4cb58fda-96c9-414c-bc48-16d35cdd37b2.pdf"
+                  href="./resume.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hero-cta secondary"
