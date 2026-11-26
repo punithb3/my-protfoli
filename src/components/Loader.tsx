@@ -14,7 +14,7 @@ export default function Loader() {
       <div className="loader-bar">
         <div className="loader-bar-fill" />
       </div>
-      <p style={{ color: 'rgba(255,255,255,0.4)', fontSize: '0.8rem', letterSpacing: '3px', textTransform: 'uppercase' }}>
+      <p style={{ color: 'var(--text-muted)', fontSize: '0.8rem', letterSpacing: '3px', textTransform: 'uppercase' }}>
         Loading Portfolio...
       </p>
     </div>

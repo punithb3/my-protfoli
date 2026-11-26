@@ -54,8 +54,6 @@ export default function Navbar() {
   return (
     <nav className={`navbar ${scrolled ? 'scrolled' : ''}`} ref={navRef}>
       <div className="nav-container">
-        <a href="#home" className="nav-logo">PK.</a>
-
         <button
           className={`hamburger ${menuOpen ? 'active' : ''}`}
           onClick={() => setMenuOpen(!menuOpen)}
@@ -78,6 +76,22 @@ export default function Navbar() {
               </a>
             </li>
           ))}
+          <li>
+            <a
+              href="/resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="nav-link resume-btn"
+              style={{
+                background: 'linear-gradient(45deg, var(--sandal-light), var(--sandal))',
+                WebkitBackgroundClip: 'text',
+                WebkitTextFillColor: 'transparent',
+                fontWeight: '600'
+              }}
+            >
+              Resume
+            </a>
+          </li>
         </ul>
       </div>
     </nav>
