@@ -49,7 +49,7 @@ export default function Footer() {
         <p className="footer-text">
           © 2026 <span className="gradient-text" style={{ fontWeight: 600 }}>Punith K</span>. All Rights Reserved.
           <br />
-          Designed by Punith
+          Designed & Developed with Punith
         </p>
       </div>
     </footer>
